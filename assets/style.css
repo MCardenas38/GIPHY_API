@@ -1,0 +1,25 @@
+img{
+    float: left;
+    margin: 45px 5px 0px 5px;
+    position: absolute;
+    right: 0px;
+}
+
+p{
+    margin: 15px 0px 0px 0px;
+    width: 100px;
+    height: 20px;
+    position: absolute;
+}
+
+button{
+    margin: 5px 3px 5px 3px;
+}
+
+.hold_pic{
+    width: 200px;
+    height: 250px;
+    position: relative;
+    float: left;
+    margin: 10px;
+}
